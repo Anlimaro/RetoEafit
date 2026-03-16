@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 ¿Cómo funciona?
+##  ¿Cómo funciona?
 
 1. El usuario llena el formulario de reserva en la web.
 2. La solicitud se envía a un Webhook en n8n.
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Automatización:** n8n
@@ -31,7 +31,7 @@
 
 ---
 
-## 📂 Estructura del proyecto
+## Estructura del proyecto
 
 - `index.html` — Interfaz web
 - `styles.css` — Estilos
@@ -41,7 +41,7 @@
 
 ---
 
-## 📦 Instrucciones para desplegar y subir a GitHub
+## Instrucciones para desplegar y subir a GitHub
 
 1. Clona el repositorio o descarga los archivos.
 2. Crea un archivo `.env` con la URL de tu webhook de n8n.
@@ -55,8 +55,3 @@
 	git push -u origin main
 	```
 
----
-
-## ✉️ Contacto
-
-Para dudas o soporte, contacta a [tu-email@dominio.com](mailto:tu-email@dominio.com)
