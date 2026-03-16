@@ -1,4 +1,4 @@
-const WEBHOOK_URL = 'https://linat92.app.n8n.cloud/webhook/0c84e47b-16d3-44da-8546-73cfe120d1c3';
+const WEBHOOK_URL = '/api/reserva';
   
 const SALAS= {APM5A1:  { nombre: 'Sala 5 - A1',       cap: 5  },
   APM5A2:  { nombre: 'Sala 5 - A2',       cap: 5  },
