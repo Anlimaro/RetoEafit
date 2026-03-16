@@ -9,7 +9,8 @@ export default async function handler(req, res) {
 
   const N8N_URL = 'https://linat92.app.n8n.cloud/webhook/0c84e47b-16d3-44da-8546-73cfe120d1c3';
 
-  const response = await fetch(N8N_URL, {
+
+  const response = await fetch(process.env.N8N_URL, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(req.body)

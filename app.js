@@ -1,3 +1,5 @@
+const WEBHOOK_URL = 'https://linat92.app.n8n.cloud/webhook/0c84e47b-16d3-44da-8546-73cfe120d1c3';
+
 async function enviarReserva() {
   limpiarTodosErrores();
 
