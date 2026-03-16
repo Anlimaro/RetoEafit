@@ -1,0 +1,6 @@
+# Dependencias y archivos a ignorar por git
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.log
